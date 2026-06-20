@@ -1,6 +1,12 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <list>
+#include <cstddef>
+#include <cstdlib>
+#include <unordered_set>
+#include <set>
+
 using namespace std;
 
 class Solution {
